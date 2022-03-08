@@ -1,0 +1,2 @@
+framework:
+ test: venh-prod config test
