@@ -1,2 +1,3 @@
 framework:
- test: framework dev config
+ profile: I'm dev framework
+ comment: Hello! updated by Spring Bus DEVSUL
